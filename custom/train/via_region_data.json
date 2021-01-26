@@ -1,0 +1,38 @@
+{
+  "Car.jpg42478": {
+    "filename": "Car.jpg",
+    "size": 42478,
+    "regions": {
+	"0":
+      {
+        "shape_attributes": {
+          "name": "polygon",
+          "all_points_x": [
+            42,
+            117,
+            238,
+            335,
+            376,
+            376,
+            130,
+            47
+          ],
+          "all_points_y": [
+            70,
+            187,
+            252,
+            244,
+            191,
+            121,
+            43,
+            71
+          ]
+        },
+        "region_attributes": {
+           
+          "Scratch": "scratch"
+        }
+      }
+    } 
+  }
+}
